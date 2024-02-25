@@ -1,0 +1,25 @@
+{
+    "name": "SCD30",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "SCD30": "github:calliope-edu/pxt-scd30#cb17619e41d8ba93b66544422a26dd3beafa0bc2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.27",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
